@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "925164934790",
+    "firebase_url": "https://ayachi-academy.firebaseio.com",
+    "project_id": "ayachi-academy",
+    "storage_bucket": "ayachi-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925164934790:android:a87519a226bddf1d6ca307",
+        "android_client_info": {
+          "package_name": "com.example.TestGround"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925164934790-hmd4a5rfk957oddkk5lo3ar6l9fmljeb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBdUynJ1OheBS6g7uwph4szbScy2AzcEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925164934790-hmd4a5rfk957oddkk5lo3ar6l9fmljeb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
